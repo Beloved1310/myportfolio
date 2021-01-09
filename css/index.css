@@ -1,0 +1,15 @@
+.navi
+{
+    
+    cursor:pointer;
+    color:white;
+    transition: 0.5s;
+}
+
+.navi:hover{
+    color:darkkhaki;
+}
+
+#contact{
+    background: yellow;
+}
